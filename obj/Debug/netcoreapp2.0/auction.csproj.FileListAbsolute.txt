@@ -1,0 +1,10 @@
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\auction\bin\Debug\netcoreapp2.0\auction.deps.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\auction\bin\Debug\netcoreapp2.0\auction.runtimeconfig.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\auction\bin\Debug\netcoreapp2.0\auction.runtimeconfig.dev.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\auction\bin\Debug\netcoreapp2.0\auction.dll
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\auction\bin\Debug\netcoreapp2.0\auction.pdb
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\auction\obj\Debug\netcoreapp2.0\auction.csproj.CoreCompileInputs.cache
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\auction\obj\Debug\netcoreapp2.0\auction.AssemblyInfoInputs.cache
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\auction\obj\Debug\netcoreapp2.0\auction.AssemblyInfo.cs
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\auction\obj\Debug\netcoreapp2.0\auction.dll
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\auction\obj\Debug\netcoreapp2.0\auction.pdb

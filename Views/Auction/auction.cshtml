@@ -1,0 +1,18 @@
+<a href="/auctions">Home</a>
+<a href="/logout">Logout</a>
+
+<h1>@ViewBag.product.name</h1>
+
+<p>Created By:@ViewBag.product.seller.username</p>
+<p>Time Remaining: @ViewBag.product.remaining_time</p>
+<p>@ViewBag.product.description</p>
+<p>Current Highest Bid: $@ViewBag.product.bid By: @ViewBag.auct.user.username</p>
+
+<form action="/bid/@ViewBag.product.productid" method="POST">
+    <br>
+    <input type="number" step="any" name="bid">
+    <input type="submit" class="btn btn-warning">
+    <span class="text-danger">@TempData["err_wallet"]</span>
+    <span class="text-danger">@TempData["err"]</span>
+</form>
+
